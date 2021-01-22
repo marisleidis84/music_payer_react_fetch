@@ -1,0 +1,13 @@
+#liid{
+    background-color: rgb(134, 120, 120);
+    color: white;
+}
+.classDiv{
+    width: 500px;
+}
+
+#ulid{
+    height: 500px;
+    overflow: auto;
+    background-color: black;
+}
